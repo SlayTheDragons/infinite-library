@@ -1,0 +1,12 @@
+{
+  "name": "infinite-library",
+  "version": "1.0.0",
+  "description": "Interactive Infinite Library archive explorer",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "keywords": ["infinite", "library", "archive", "simulation"],
+  "author": "",
+  "license": "MIT"
+}
